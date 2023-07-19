@@ -4,7 +4,7 @@
 - [Objective](#objective)
 - [Workflow](#workflow)
 
-- ## Project Description
+## Project Description
 **Customer analytics**: Data Analysis and Visualizations using the [Airline Passenger Satisfaction dataset](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction) from [Kaggle](https://www.kaggle.com/)
 
 ## Objective
