@@ -15,5 +15,4 @@
 1. Data preprocessing and setting the libraries `Pandas`, `Numpy`, `Matplotlib`, `Seaborn` and `SKlearn`.
 2. EDA and visualization
 5. **Dissatisfaction Prediction Analysis**: dataset preparation, normalization of attributes, feature selection and applying model.
-6. **Customer Clustering**: same steps as before, but with one difference: features transformation with **Principal Component Analysis (PCA)**. Thus, clustering customers in 5 different customer segments.
-7. Presentation: construction and oral presentation to the students of Ironhack Data Cohort.
+6. **Customer Clustering**:features transformation with **Principal Component Analysis (PCA)**. clustering customers in 5 different methods
